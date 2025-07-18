@@ -1,7 +1,6 @@
-problem: given an sorted array and a target find all occurances of that tareget in the array which might contain duplicate elements
-
+problem: "https://leetcode.com/problems/find-smallest-letter-greater-than-target/"
 class Solution{
-    public int floor(int[] arr, int target) {
+    public static int floor(int[] arr, int target) {
         int start =0,end=arr.length-1,ans=-1;
         while(start<=end)
         {
