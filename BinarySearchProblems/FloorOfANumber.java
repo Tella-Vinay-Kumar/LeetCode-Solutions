@@ -1,4 +1,4 @@
-problem: "https://leetcode.com/problems/find-smallest-letter-greater-than-target/"
+problem: given an array of sorted elements and a target find  the number of occurances of a target the array
 class Solution{
     public static int floor(int[] arr, int target) {
         int start =0,end=arr.length-1,ans=-1;
