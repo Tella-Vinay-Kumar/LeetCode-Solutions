@@ -1,8 +1,8 @@
-# LeetCode-Solutions
-My Java solutions to LeetCode problems, categorized by topic
- LeetCode Solutions in Java 🚀
+# DSA-Solutions
+My Java solutions to DSA problems, categorized by topic
+ DSA Solutions in Java 
 
-This repository contains my Java solutions to various LeetCode problems.  
+This repository contains my Java solutions to various DSA problems.  
 Each solution is well-commented, optimized, and organized by problem number.
  Topics Covered
 - Arrays
